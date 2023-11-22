@@ -1,9 +1,9 @@
 # app-dev
 My First Repository
 
-** These are my Favorites series/movies when I was young until todays. I want the genre of Thriller, Horror, Supernatural and a lot of more.
+**These are my Favorites series/movies when I was young until todays. I want the genre of Thriller, Horror, Supernatural and a lot of more.
 
-##**FINAL DESTINATION**
+**FINAL DESTINATION**
 
 **Genre:** Supernatural, Thriller  
 **Plot:** A group of individuals escapes death but find themselves pursued by a force that tries to claim their lives in elaborate ways.  
